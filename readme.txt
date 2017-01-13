@@ -9,3 +9,4 @@ dev
 other one
 me
 
+中文
